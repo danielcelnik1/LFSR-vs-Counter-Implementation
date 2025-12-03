@@ -1,0 +1,32 @@
+report_area
+ 
+****************************************
+Report : area
+Design : lfsr
+Version: W-2024.09
+Date   : Mon Dec  1 23:15:24 2025
+****************************************
+
+Information: Updating design information... (UID-85)
+Library(s) Used:
+
+    saed90nm_typ_ccs (File: /opt/ECE_Lib/SAED90nm_EDK_10072017/SAED90_EDK/SAED_EDK90nm_ccs_models_svt/saed90nm_typ_ccs.db)
+
+Number of ports:                           17
+Number of nets:                            59
+Number of cells:                           44
+Number of combinational cells:             32
+Number of sequential cells:                12
+Number of macros/black boxes:               0
+Number of buf/inv:                          6
+Number of references:                      14
+
+Combinational area:                339.148799
+Buf/Inv area:                       33.177601
+Noncombinational area:             387.072006
+Macro/Black Box area:                0.000000
+Net Interconnect area:              28.029898
+
+Total cell area:                   726.220805
+Total area:                        754.250703
+1

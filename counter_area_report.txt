@@ -1,0 +1,32 @@
+report_area
+ 
+****************************************
+Report : area
+Design : counter
+Version: W-2024.09
+Date   : Mon Dec  1 23:43:27 2025
+****************************************
+
+Information: Updating design information... (UID-85)
+Library(s) Used:
+
+    saed90nm_typ_ccs (File: /opt/ECE_Lib/SAED90nm_EDK_10072017/SAED90_EDK/SAED_EDK90nm_ccs_models_svt/saed90nm_typ_ccs.db)
+
+Number of ports:                           93
+Number of nets:                           205
+Number of cells:                           97
+Number of combinational cells:             81
+Number of sequential cells:                12
+Number of macros/black boxes:               0
+Number of buf/inv:                          9
+Number of references:                      15
+
+Combinational area:               1000.857599
+Buf/Inv area:                       49.766401
+Noncombinational area:             387.072006
+Macro/Black Box area:                0.000000
+Net Interconnect area:              52.862445
+
+Total cell area:                  1387.929605
+Total area:                       1440.792051
+1

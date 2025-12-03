@@ -1,0 +1,126 @@
+Info: [VCS_SAVE_RESTORE_INFO] ASLR (Address Space Layout Randomization) is detected on the machine. To enable $save functionality, ASLR will be switched off and simv re-executed.
+Please use '-no_save' simv switch to avoid re-execution or '-suppress=ASLR_DETECTED_INFO' to suppress this message.
+Chronologic VCS simulator copyright 1991-2024
+Contains Synopsys proprietary information.
+Compiler version W-2024.09_Full64; Runtime version W-2024.09_Full64;  Dec  1 15:54 2025
+Time: 0 | Mode: 00 | Start: 0 | Stop: 0 | LFSR Output: 00000000000
+Time: 20 | Mode: 00 | Start: 1 | Stop: 0 | LFSR Output: 00000000000
+Time: 25 | Mode: 00 | Start: 1 | Stop: 0 | LFSR Output: 00000000001
+Time: 30 | Mode: 00 | Start: 0 | Stop: 0 | LFSR Output: 00000000001
+Match at time 35: Value 00000000001
+Time: 35 | Mode: 00 | Start: 0 | Stop: 0 | LFSR Output: 00000000010
+Match at time 45: Value 00000000010
+Time: 45 | Mode: 00 | Start: 0 | Stop: 0 | LFSR Output: 00000000100
+Match at time 55: Value 00000000100
+Time: 55 | Mode: 00 | Start: 0 | Stop: 0 | LFSR Output: 00000001000
+Match at time 65: Value 00000001000
+Time: 65 | Mode: 00 | Start: 0 | Stop: 0 | LFSR Output: 00000010001
+Match at time 75: Value 00000010001
+Time: 75 | Mode: 00 | Start: 0 | Stop: 0 | LFSR Output: 00000100011
+Match at time 85: Value 00000100011
+Time: 85 | Mode: 00 | Start: 0 | Stop: 0 | LFSR Output: 00001000111
+Match at time 95: Value 00001000111
+Time: 95 | Mode: 00 | Start: 0 | Stop: 0 | LFSR Output: 00010001110
+Match at time 105: Value 00010001110
+Time: 105 | Mode: 00 | Start: 0 | Stop: 0 | LFSR Output: 00000011100
+Match at time 115: Value 00000011100
+Time: 115 | Mode: 00 | Start: 0 | Stop: 0 | LFSR Output: 00000111000
+Match at time 125: Value 00000111000
+Time: 125 | Mode: 00 | Start: 0 | Stop: 0 | LFSR Output: 00001110001
+Time: 130 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00001110001
+Match at time 135: Value 00001110001
+Time: 135 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00011100011
+Match at time 145: Value 00011100011
+Time: 145 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00111000110
+Match at time 155: Value 00111000110
+Time: 155 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00110001101
+Match at time 165: Value 00110001101
+Time: 165 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00100011011
+Match at time 175: Value 00100011011
+Time: 175 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00000110110
+Match at time 185: Value 00000110110
+Time: 185 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00001101101
+Match at time 195: Value 00001101101
+Time: 195 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00011011010
+Match at time 205: Value 00011011010
+Time: 205 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00110110101
+Match at time 215: Value 00110110101
+Time: 215 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00101101010
+Match at time 225: Value 00101101010
+Time: 225 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00011010101
+Match at time 235: Value 00011010101
+Time: 235 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00110101011
+Time: 240 | Mode: 01 | Start: 0 | Stop: 1 | LFSR Output: 00110101011
+Match at time 245: Value 00110101011
+Time: 260 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00110101011
+Time: 265 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00101010111
+Match at time 275: Value 00101010111
+Time: 275 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00010101110
+Match at time 285: Value 00010101110
+Time: 285 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00101011100
+Match at time 295: Value 00101011100
+Time: 295 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00010111000
+Match at time 305: Value 00010111000
+Time: 305 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00101110001
+Match at time 315: Value 00101110001
+Time: 315 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00011100010
+Match at time 325: Value 00011100010
+Time: 325 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00111000100
+Match at time 335: Value 00111000100
+Time: 335 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00110001001
+Match at time 345: Value 00110001001
+Time: 345 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00100010011
+Match at time 355: Value 00100010011
+Time: 355 | Mode: 01 | Start: 0 | Stop: 0 | LFSR Output: 00000100110
+Time: 360 | Mode: 10 | Start: 0 | Stop: 0 | LFSR Output: 00000100110
+Match at time 365: Value 00000100110
+Time: 365 | Mode: 10 | Start: 0 | Stop: 0 | LFSR Output: 00001001100
+Match at time 375: Value 00001001100
+Time: 375 | Mode: 10 | Start: 0 | Stop: 0 | LFSR Output: 00010011001
+Match at time 385: Value 00010011001
+Time: 385 | Mode: 10 | Start: 0 | Stop: 0 | LFSR Output: 00100110010
+Match at time 395: Value 00100110010
+Time: 395 | Mode: 10 | Start: 0 | Stop: 0 | LFSR Output: 01001100100
+Match at time 405: Value 01001100100
+Time: 405 | Mode: 10 | Start: 0 | Stop: 0 | LFSR Output: 00011001000
+Match at time 415: Value 00011001000
+Time: 415 | Mode: 10 | Start: 0 | Stop: 0 | LFSR Output: 00110010001
+Match at time 425: Value 00110010001
+Time: 425 | Mode: 10 | Start: 0 | Stop: 0 | LFSR Output: 01100100010
+Match at time 435: Value 01100100010
+Time: 435 | Mode: 10 | Start: 0 | Stop: 0 | LFSR Output: 01001000101
+Match at time 445: Value 01001000101
+Time: 445 | Mode: 10 | Start: 0 | Stop: 0 | LFSR Output: 00010001010
+Match at time 455: Value 00010001010
+Time: 455 | Mode: 10 | Start: 0 | Stop: 0 | LFSR Output: 00100010100
+Match at time 465: Value 00100010100
+Time: 465 | Mode: 10 | Start: 0 | Stop: 0 | LFSR Output: 01000101000
+Time: 470 | Mode: 11 | Start: 0 | Stop: 0 | LFSR Output: 01000101000
+Match at time 475: Value 01000101000
+Time: 475 | Mode: 11 | Start: 0 | Stop: 0 | LFSR Output: 10001010000
+Match at time 485: Value 10001010000
+Time: 485 | Mode: 11 | Start: 0 | Stop: 0 | LFSR Output: 00010100001
+Match at time 495: Value 00010100001
+Time: 495 | Mode: 11 | Start: 0 | Stop: 0 | LFSR Output: 00101000010
+Match at time 505: Value 00101000010
+Time: 505 | Mode: 11 | Start: 0 | Stop: 0 | LFSR Output: 01010000101
+Match at time 515: Value 01010000101
+Time: 515 | Mode: 11 | Start: 0 | Stop: 0 | LFSR Output: 10100001010
+Match at time 525: Value 10100001010
+Time: 525 | Mode: 11 | Start: 0 | Stop: 0 | LFSR Output: 01000010100
+Match at time 535: Value 01000010100
+Time: 535 | Mode: 11 | Start: 0 | Stop: 0 | LFSR Output: 10000101000
+Match at time 545: Value 10000101000
+Time: 545 | Mode: 11 | Start: 0 | Stop: 0 | LFSR Output: 00001010001
+Match at time 555: Value 00001010001
+Time: 555 | Mode: 11 | Start: 0 | Stop: 0 | LFSR Output: 00010100010
+Match at time 565: Value 00010100010
+Time: 565 | Mode: 11 | Start: 0 | Stop: 0 | LFSR Output: 00101000100
+Match at time 575: Value 00101000100
+Time: 575 | Mode: 11 | Start: 0 | Stop: 0 | LFSR Output: 01010001001
+$finish called from file "lfsr_tb.sv", line 79.
+$finish at simulation time                  580
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 580
+CPU Time:      0.210 seconds;       Data structure size:   0.0Mb
+Mon Dec  1 15:54:17 2025
